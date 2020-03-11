@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "SearchInput": "../../components/search/search"
+  },
+  "navigationBarTitleText": "KK首页"
+}
